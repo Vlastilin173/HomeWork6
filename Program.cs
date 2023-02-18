@@ -53,3 +53,7 @@ double y = k1 * x + b1;
 x = Math.Round(x, 2);
 y = Math.Round(y, 2);
 Console.WriteLine($"Точка пересечения прямых (x) и (y): ({x};{y})");
+
+
+
+
